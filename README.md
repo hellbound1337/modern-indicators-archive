@@ -13,6 +13,6 @@ All colors can be customized in the theme file, you can use `HSLA|HEX|RGBA` and 
 <img src="https://i.imgur.com/mh452Fp.png"/>
 
 # Support 
-- [Support Server](https://discord.gg/6kB6hFJ)
+- [Support Server](https://discord.gg/HHWfdgf)
 - mario#9999 
 
