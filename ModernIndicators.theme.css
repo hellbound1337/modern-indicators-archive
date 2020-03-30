@@ -11,6 +11,8 @@
 
 **/
 
+@import url(https://zzzmario.github.io/modern-indicators/src/source.css);
+
 :root {
    --unread-badge: rgba(255,255,255,0.6) !important;
    --unread-background: rgba(255, 255, 255, 0.008) !important;
