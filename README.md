@@ -15,5 +15,3 @@ All colors can be customized in the theme file, you can use `HSLA|HEX|RGBA` and 
 # Support 
 - [Support Server](https://discord.gg/6kB6hFJ)
 - mario#9999 
-
-a
