@@ -2,7 +2,7 @@
 A modern style to discord's boring indicators.
 
 # Downloads
-- [BetterDiscord](https://betterdiscord.net/ghdl?id=3184)
+- [BetterDiscord](https://betterdiscord.net/ghdl?id=3271)
 - [Powercord](https://github.com/hellbound1337/modern-indicators/blob/master/ModernIndicators.zip?raw=true)
 
 # Note
