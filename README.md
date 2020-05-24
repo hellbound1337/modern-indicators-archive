@@ -3,7 +3,7 @@ A modern style to discord's boring indicators.
 
 # Downloads
 - [BetterDiscord](https://betterdiscord.net/ghdl?id=3184)
-- [Powercord](https://github.com/zzzmario/modern-indicators/blob/master/ModernIndicators.rar?raw=true)
+- [Powercord](https://github.com/hellbound1337/modern-indicators/blob/master/ModernIndicators.zip?raw=true)
 
 # Note
 All colors can be customized in the theme file, you can use `HSLA|HEX|RGBA` and anything else supported by css.
@@ -13,6 +13,6 @@ All colors can be customized in the theme file, you can use `HSLA|HEX|RGBA` and 
 <img src="https://i.imgur.com/mh452Fp.png"/>
 
 # Support 
-- [Support Server](https://discord.gg/HHWfdgf)
+- [Support Server](https://discord.gg/pCc7q4Z)
 - hellbound#9999 
 
