@@ -14,5 +14,5 @@ All colors can be customized in the theme file, you can use `HSLA|HEX|RGBA` and 
 
 # Support 
 - [Support Server](https://discord.gg/pCc7q4Z)
-- hellbound#0001
+- hellbound#9999
 
