@@ -1,0 +1,9 @@
+{
+    "name": "Modern Indicators",
+    "description": "A modern style to discord's boring indicators.",
+    "version": "1.0.0",
+    "author": "hellbound#9999",
+    "theme": "ModernIndicators.theme.css",
+    "consent": "false",
+    "license": "Unlicensed"
+}
