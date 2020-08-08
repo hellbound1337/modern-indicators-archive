@@ -94,3 +94,7 @@
 .privateChannels-1nO12o .clickable-1JJAn8.container-2Pjhx-:hover, .privateChannels-1nO12o .clickable-1JJAn8.container-2Pjhx-:hover .muted-3mU76i {
     background: var(--hovered);
 }
+
+#app-mount .sidebar-2K8pFh [class*=scroller-]::-webkit-scrollbar {
+  display: none;
+}
