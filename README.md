@@ -1,4 +1,4 @@
-# Modern Indicators
+# Modern Indicators [![CodeFactor](https://www.codefactor.io/repository/github/hellbound1337/modern-indicators/badge)](https://www.codefactor.io/repository/github/hellbound1337/modern-indicators)
 A modern style to discord's boring indicators.
 
 # Downloads
