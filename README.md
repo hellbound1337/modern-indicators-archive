@@ -1,9 +1,9 @@
-# Modern Indicators [![CodeFactor](https://www.codefactor.io/repository/github/hellbound1337/modern-indicators/badge)](https://www.codefactor.io/repository/github/hellbound1337/modern-indicators)
+# Modern Indicators [![CodeFactor](https://www.codefactor.io/repository/github/hellboundthegod/modern-indicators/badge)](https://www.codefactor.io/repository/github/hellboundthegod/modern-indicators)
 A modern style to discord's boring indicators.
 
 # Downloads
 - [BetterDiscord](https://betterdiscord.net/ghdl?id=3271)
-- Powercord: `git clone https://github.com/hellbound1337/modern-indicators/`
+- Powercord: `git clone https://github.com/hellboundthegod/modern-indicators/`
 
 # Note
 All colors can be customized in the theme file, you can use `HSLA|HEX|RGBA` and anything else supported by css.
