@@ -3,15 +3,13 @@
  * @name Modern Indicators
  * @version 1.0
  * @description A modern style to discord's boring indicators.
- * @source https://github.com/hellboundthegod/modern-indicators
+ * @source https://github.com/hellbound1337/modern-indicators
  * @authorId 583062692596547585
  * @author hellbound
- * @donate https://paypal.me/zzzmario
- * @invite pCc7q4Z
 
 **/
 
-@import url(https://raw.githack.com/hellboundthegod/modern-indicators/master/src/source.css);
+@import url(https://raw.githack.com/hellbound1337/modern-indicators/master/src/source.css);
 
 :root {
    --unread-badge: rgba(255,255,255,0.6) !important;
