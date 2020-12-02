@@ -1,6 +1,6 @@
-.modeSelected-1zApJ_:hover .content-3at_AU,
-.privateChannels-1nO12o .clickable-1JJAn8.container-2Pjhx-:hover,
-.privateChannels-1nO12o .clickable-1JJAn8.container-2Pjhx-:hover .muted-3mU76i .container-PNkimc .scroller-2FKFPG .scrollerWrap-2lJEkd .clickable-1JJAn8:hover .layout-2DM8Md,
+.modeSelected-346R90_:hover .content-3at_AU,
+.privateChannels-1nO12o .clickable-536fPF.container-2Pjhx-:hover,
+.privateChannels-1nO12o .clickable-536fPF.container-2Pjhx-:hover .muted-3mU76i .container-2lgZY8 .scroller-2FKFPG .scrollerWrap-2lJEkd .clickable-536fPF:hover .layout-2DM8Md,
 .peopleListItem-2nzedh.active-rhSpJJ,
 .peopleListItem-2nzedh:hover,
 .wrapper-1ucjTd:hover .content-3at_AU {
@@ -8,9 +8,9 @@
 }
 
 .privateChannels-1nO12o .scrollerWrap-2lJEkd .scroller-2FKFPG .selected-aXhQR6.container-2Pjhx-:before,
-.wrapper-1ucjTd.modeSelected-1zApJ_:before,
+.wrapper-1ucjTd.modeSelected-346R90_:before,
 .sidebar-CFHs9e .side-8zPYf6 .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ:before,
-.container-PNkimc .scroller-2FKFPG .scrollerWrap-2lJEkd .clickable-1JJAn8.container-2Pjhx-:active, .privateChannels-1nO12o .selected-aXhQR6.container-2Pjhx- {
+.container-2lgZY8 .scroller-2FKFPG .scrollerWrap-2lJEkd .clickable-536fPF.container-2Pjhx-:active, .privateChannels-1nO12o .selected-aXhQR6.container-2Pjhx- {
    border-left: 2px solid var(--selected-badge);
 }
 
@@ -89,8 +89,8 @@
    background: none !important;
 }
 
-.privateChannels-1nO12o .clickable-1JJAn8.container-2Pjhx-:hover,
-.privateChannels-1nO12o .clickable-1JJAn8.container-2Pjhx-:hover .muted-3mU76i {
+.privateChannels-1nO12o .clickable-536fPF.container-2Pjhx-:hover,
+.privateChannels-1nO12o .clickable-536fPF.container-2Pjhx-:hover .muted-3mU76i {
    background: var(--hovered);
 }
 
