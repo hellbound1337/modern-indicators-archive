@@ -97,3 +97,7 @@
 #app-mount .sidebar-2K8pFh [class*='scroller-']::-webkit-scrollbar {
    display: none;
 }
+
+.wrapper-2jXpOf {
+   background-color: #ffffff !important;
+}
