@@ -3,6 +3,12 @@ A modern style to discord's boring indicators.
 
 Original is created by hellhound1337, Idk what was going on, but thanks anyway.
 
+# Knows issues
+Selected channel text and icons are went 2px right.
+
+<img src="https://i.imgur.com/CrnoZTy.png"/>
+
+
 # Downloads
 ~~[BetterDiscord](https://betterdiscord.net/ghdl?id=3271)~~ We didn't ready for post this
 
